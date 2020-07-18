@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/proxy/e_XS0TuVUK3HrSBwEx1QK3kk5os_WKxoj9lb42EefvNYpsyCZOgLyP6uPj5NGJ68KFM4rVh16Krym4_g_lLn3q3VBpYatgheTVnUiJUrvxo9e0m6_GdBJFJ_Lnam",
+      "name": "Moda Brasileira",
+      "price": "200.00",
+      "description": "Comida Típica",
+      "available": true,
+      "id": 5
     }
   ]
 }
